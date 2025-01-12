@@ -9,7 +9,7 @@ The Harvia Sauna integration, using the MyHarvia App, allows you to control and 
     - Navigate to HACS in the Home Assistant sidebar.
     - Select 'Integrations'.
     - Click the three dots in the top right corner and choose 'Custom repositories'.
-    - Add this GitHub repository URL (`https://github.com/RubenHarms/ha-harvia-xenio-wifi`) and select 'Integration' as the category.
+    - Add this GitHub repository URL (`https://github.com/geocar/ha-harvia-xenio-wifi`) and select 'Integration' as the category.
     - Click 'Add'.
 3. **Install Integration**:
     - Search for 'Harvia Sauna' under the 'Integrations' tab in HACS.
